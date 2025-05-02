@@ -1,0 +1,16 @@
+
+                        Design Principles Notes
+                        Key Principles
+                        
+                            Contrast: Making elements stand out from each other.
+                            Repetition: Reusing elements throughout the design for consistency.
+                            Alignment: Arranging elements intentionally, not randomly.
+                            Proximity: Grouping related items together.
+                        
+                        Color Theory
+                        Understanding the color wheel, harmonies (complementary, analogous, triadic), and the psychological impact of colors.
+                        Typography
+                        Choosing appropriate fonts, font pairings, hierarchy, kerning, leading, and tracking.
+                        Composition
+                        Arranging elements within the design space using principles like balance, hierarchy, and the rule of thirds.
+                    
