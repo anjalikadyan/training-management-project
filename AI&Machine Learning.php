@@ -6,6 +6,7 @@ if (session_status() == PHP_SESSION_NONE) {
 // Require database configuration (this sets $mysqli)
 require_once 'config.php'; // <--- Sets up $mysqli
 
+
 // --- Course Specific Variables ---
 // *** IMPORTANT: Unique Slug for this course ***
 $course_slug = 'ai-ml-bootcamp-2024'; // Example unique slug
